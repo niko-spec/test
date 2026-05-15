@@ -1,0 +1,8964 @@
+{
+  "nodes": [
+    {
+      "name": "冠心病",
+      "category": 1,
+      "symbolSize": 40,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#E8590C"
+      }
+    },
+    {
+      "name": "内科",
+      "category": 0,
+      "symbolSize": 60,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#4C6EF5"
+      }
+    },
+    {
+      "name": "心内科",
+      "category": 0,
+      "symbolSize": 60,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#4C6EF5"
+      }
+    },
+    {
+      "name": "心血管堵塞",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "心力衰竭",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "呼吸困难",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "心跳过速",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "乏力",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "同溢堂",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "益安宁丸",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "丹参益心胶囊",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "运动显像",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "心电图",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "动态心电图（Holter监测）",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "鸡蛋清",
+      "category": 5,
+      "symbolSize": 15,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#F08C00"
+      }
+    },
+    {
+      "name": "南瓜子仁",
+      "category": 5,
+      "symbolSize": 15,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#F08C00"
+      }
+    },
+    {
+      "name": "白酒",
+      "category": 6,
+      "symbolSize": 15,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#E03131"
+      }
+    },
+    {
+      "name": "杏仁",
+      "category": 6,
+      "symbolSize": 15,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#E03131"
+      }
+    },
+    {
+      "name": "功能性消化不良",
+      "category": 1,
+      "symbolSize": 40,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#E8590C"
+      }
+    },
+    {
+      "name": "消化内科",
+      "category": 0,
+      "symbolSize": 60,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#4C6EF5"
+      }
+    },
+    {
+      "name": "驻站医",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "腹部不适",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "植物血凝素的淋...",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "放屁过臭",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "腹泻",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "维生素B1丸",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "乳酸菌素片",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "沙棘颗粒",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "尿常规",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "粪便淀粉颗粒",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "胃肠道功能动力学检查",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "鹿肉",
+      "category": 5,
+      "symbolSize": 15,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#F08C00"
+      }
+    },
+    {
+      "name": "鸡心",
+      "category": 5,
+      "symbolSize": 15,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#F08C00"
+      }
+    },
+    {
+      "name": "鹌鹑蛋",
+      "category": 6,
+      "symbolSize": 15,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#E03131"
+      }
+    },
+    {
+      "name": "鸡腿",
+      "category": 6,
+      "symbolSize": 15,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#E03131"
+      }
+    },
+    {
+      "name": "胃炎",
+      "category": 1,
+      "symbolSize": 40,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#E8590C"
+      }
+    },
+    {
+      "name": "发热伴有腹痛、...",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "上腹不适",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "恶心与呕吐",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "反酸",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "胃肠道胀气",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "复方田七胃痛胶囊",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "左金丸",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "奥美拉唑镁肠溶片",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "胃镜",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "抗胃壁细胞抗体",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "纤维胃镜检查",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "鸭肝",
+      "category": 5,
+      "symbolSize": 15,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#F08C00"
+      }
+    },
+    {
+      "name": "鸭血(白鸭)",
+      "category": 6,
+      "symbolSize": 15,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#E03131"
+      }
+    },
+    {
+      "name": "老年人骨质疏松",
+      "category": 1,
+      "symbolSize": 40,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#E8590C"
+      }
+    },
+    {
+      "name": "外科",
+      "category": 0,
+      "symbolSize": 60,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#4C6EF5"
+      }
+    },
+    {
+      "name": "骨外科",
+      "category": 0,
+      "symbolSize": 60,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#4C6EF5"
+      }
+    },
+    {
+      "name": "疲劳",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "背痛",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "胸腰椎压缩性骨折",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "驼背",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "骨质疏松",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "全鹿丸",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "补肾健骨胶囊",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "强骨生血口服液",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "骨密度测定",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "视力",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "血清钙",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "鸡蛋",
+      "category": 5,
+      "symbolSize": 15,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#F08C00"
+      }
+    },
+    {
+      "name": "鸡内金",
+      "category": 5,
+      "symbolSize": 15,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#F08C00"
+      }
+    },
+    {
+      "name": "田螺",
+      "category": 6,
+      "symbolSize": 15,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#E03131"
+      }
+    },
+    {
+      "name": "前列腺炎",
+      "category": 1,
+      "symbolSize": 40,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#E8590C"
+      }
+    },
+    {
+      "name": "泌尿外科",
+      "category": 0,
+      "symbolSize": 60,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#4C6EF5"
+      }
+    },
+    {
+      "name": "男性小腹坠痛",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "排尿障碍",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "排尿疼痛",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "尿滴白",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "尿频",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "前列舒乐颗粒",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "乳酸左氧氟沙星片",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "盐酸克林霉素棕榈酸酯分散片",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "前列腺液卵磷脂小体",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "精液柠檬酸",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "精液气味",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "芝麻",
+      "category": 5,
+      "symbolSize": 15,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#F08C00"
+      }
+    },
+    {
+      "name": "腐竹",
+      "category": 6,
+      "symbolSize": 15,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#E03131"
+      }
+    },
+    {
+      "name": "前列腺增生",
+      "category": 1,
+      "symbolSize": 40,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#E8590C"
+      }
+    },
+    {
+      "name": "血尿",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "排尿困难及尿潴留",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "膀胱排空不全",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "非那雄胺片",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "前列癃闭通片",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "前列舒乐片",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "男性生殖系X线检查",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "膀胱镜",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "膀胱残余尿量测定",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "鼻炎",
+      "category": 1,
+      "symbolSize": 40,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#E8590C"
+      }
+    },
+    {
+      "name": "五官科",
+      "category": 0,
+      "symbolSize": 60,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#4C6EF5"
+      }
+    },
+    {
+      "name": "耳鼻喉科",
+      "category": 0,
+      "symbolSize": 60,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#4C6EF5"
+      }
+    },
+    {
+      "name": "鼻粘膜苍白水肿",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "上额窦囊肿",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "鼻粘膜干燥发痒",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "鼻塞排出脓性或...",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "深侧鼻塞",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "孟鲁司特钠片",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "富马酸酮替芬胶囊",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "苍夷滴鼻剂",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "耳鼻咽喉CT检查",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "鼻腔检查",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "鼻嗅觉功能检查",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "鸭蛋",
+      "category": 5,
+      "symbolSize": 15,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#F08C00"
+      }
+    },
+    {
+      "name": "花生",
+      "category": 6,
+      "symbolSize": 15,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#E03131"
+      }
+    },
+    {
+      "name": "白扁豆",
+      "category": 6,
+      "symbolSize": 15,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#E03131"
+      }
+    },
+    {
+      "name": "扁桃体炎",
+      "category": 1,
+      "symbolSize": 40,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#E8590C"
+      }
+    },
+    {
+      "name": "喉结痛",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "扁桃体充血",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "扁桃体充血肥大",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "咽痛",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "扁桃体上有白点",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "炎立消胶囊",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "一清颗粒",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "牛黄解毒丸",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "耳、鼻、咽拭子细菌培养",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "血小板计数（PLT）",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "蜂蜜",
+      "category": 5,
+      "symbolSize": 15,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#F08C00"
+      }
+    },
+    {
+      "name": "冰糖",
+      "category": 5,
+      "symbolSize": 15,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#F08C00"
+      }
+    },
+    {
+      "name": "沙丁鱼",
+      "category": 6,
+      "symbolSize": 15,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#E03131"
+      }
+    },
+    {
+      "name": "位置性眩晕",
+      "category": 1,
+      "symbolSize": 40,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#E8590C"
+      }
+    },
+    {
+      "name": "眩晕",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "晕机",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "出冷汗",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "旋转性眩晕",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "养血安神片",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "清凉油",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "颅脑CT检查",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "颈动脉彩超",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "前庭功能检查",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "小儿右肺中叶综合征",
+      "category": 1,
+      "symbolSize": 40,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#E8590C"
+      }
+    },
+    {
+      "name": "儿科",
+      "category": 0,
+      "symbolSize": 60,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#4C6EF5"
+      }
+    },
+    {
+      "name": "小儿内科",
+      "category": 0,
+      "symbolSize": 60,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#4C6EF5"
+      }
+    },
+    {
+      "name": "淋巴结肿大",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "慢性咳嗽",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "体重减轻",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "咯血",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "乙酰螺旋霉素片",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "头孢拉定分散片",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "胸部平片",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "胸部CT检查",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "支气管镜检查",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "小儿高血压",
+      "category": 1,
+      "symbolSize": 40,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#E8590C"
+      }
+    },
+    {
+      "name": "抽风",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "食欲下降",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "共济失调",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "视力障碍",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "瘀斑",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "替米沙坦片",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "羟苯磺酸钙胶囊",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "马来酸依那普利片",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "血管杂音",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "血常规",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "啤酒",
+      "category": 6,
+      "symbolSize": 15,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#E03131"
+      }
+    },
+    {
+      "name": "婴幼儿腹泻",
+      "category": 1,
+      "symbolSize": 40,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#E8590C"
+      }
+    },
+    {
+      "name": "肠鸣",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "拒食",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "爆发性水泻",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "抱龙丸",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "小儿暖脐膏",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "便常规",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "粪便钾（Potassium.K）",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "桃仁",
+      "category": 5,
+      "symbolSize": 15,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#F08C00"
+      }
+    },
+    {
+      "name": "葵花子仁",
+      "category": 5,
+      "symbolSize": 15,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#F08C00"
+      }
+    },
+    {
+      "name": "副银屑病",
+      "category": 1,
+      "symbolSize": 40,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#E8590C"
+      }
+    },
+    {
+      "name": "皮肤性病科",
+      "category": 0,
+      "symbolSize": 60,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#4C6EF5"
+      }
+    },
+    {
+      "name": "皮肤科",
+      "category": 0,
+      "symbolSize": 60,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#4C6EF5"
+      }
+    },
+    {
+      "name": "斑疹",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "疱疹",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "鳞屑",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "点状出血",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "银屑灵",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "环孢素软胶囊",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "他卡西醇软膏",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "涂片",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "免疫病理检查",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "细胞组织化学染色",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "耳湿疹",
+      "category": 1,
+      "symbolSize": 40,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#E8590C"
+      }
+    },
+    {
+      "name": "耳垂长痘",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "耳后红斑",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "慢性湿疹样变",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "耳朵长痘",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "糠酸莫米松凝胶",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "氟芬那酸丁酯软膏",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "无极膏",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "皮肤颜色",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "薇菜",
+      "category": 5,
+      "symbolSize": 15,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#F08C00"
+      }
+    },
+    {
+      "name": "苏打粉",
+      "category": 6,
+      "symbolSize": 15,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#E03131"
+      }
+    },
+    {
+      "name": "咸鸭蛋",
+      "category": 6,
+      "symbolSize": 15,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#E03131"
+      }
+    },
+    {
+      "name": "核黄素缺乏病",
+      "category": 1,
+      "symbolSize": 40,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#E8590C"
+      }
+    },
+    {
+      "name": "口唇干燥",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "丘疹",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "口腔粘膜色素沉着",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "舌炎",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "鱼肝油乳",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "多维铁口服溶液",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "维生素B2",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "皮损",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "维生素B2（VitB2,VB2）",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "鸭肉",
+      "category": 5,
+      "symbolSize": 15,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#F08C00"
+      }
+    },
+    {
+      "name": "公鸡",
+      "category": 6,
+      "symbolSize": 15,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#E03131"
+      }
+    },
+    {
+      "name": "颈椎病",
+      "category": 1,
+      "symbolSize": 40,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#E8590C"
+      }
+    },
+    {
+      "name": "脖子扭痛",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "右腿麻木",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "颈心综合症",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "手臂发麻",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "肩背部沉重感",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "抗骨质增生丸",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "抗骨增生片",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "抑眩宁胶囊",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "颈部MRI检查",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "颈椎CT检查",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "肌电图",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "畸形性骨炎",
+      "category": 1,
+      "symbolSize": 40,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#E8590C"
+      }
+    },
+    {
+      "name": "脑积水",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "耳聋",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "出生时小头",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "嗜睡",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "消炎镇痛膏",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "小活络丸",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "甲芬那酸片",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "骨与关节MRI检查",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "骨关节及软组织CT检查",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "手畸形检查",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "胃癌",
+      "category": 1,
+      "symbolSize": 40,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#E8590C"
+      }
+    },
+    {
+      "name": "肿瘤科",
+      "category": 0,
+      "symbolSize": 60,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#4C6EF5"
+      }
+    },
+    {
+      "name": "肿瘤内科",
+      "category": 0,
+      "symbolSize": 60,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#4C6EF5"
+      }
+    },
+    {
+      "name": "急腹症",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "手掌呈黑色",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "胃痛",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "胃壁增厚",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "便秘",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "消癌平片",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "参莲胶囊",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "鸦胆子油乳注射液",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "胃液潜血试验",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "血清唾液酸测定",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "鸽蛋",
+      "category": 5,
+      "symbolSize": 15,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#F08C00"
+      }
+    },
+    {
+      "name": "小龙虾",
+      "category": 6,
+      "symbolSize": 15,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#E03131"
+      }
+    },
+    {
+      "name": "原发性肝癌",
+      "category": 1,
+      "symbolSize": 40,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#E8590C"
+      }
+    },
+    {
+      "name": "肿瘤外科",
+      "category": 0,
+      "symbolSize": 60,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#4C6EF5"
+      }
+    },
+    {
+      "name": "钝痛",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "腹部肿块",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "肝功能受损",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "腹水",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "复方氟尿嘧啶口服溶液",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "养正消积胶囊",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "楼莲胶囊",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "血清γ-谷氨酰转肽酶同工酶",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "血清碱性磷酸酶同工酶",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "胎甲球（a-FA/AFP)",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "干腌菜",
+      "category": 6,
+      "symbolSize": 15,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#E03131"
+      }
+    },
+    {
+      "name": "老年人原发性肝癌",
+      "category": 1,
+      "symbolSize": 40,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#E8590C"
+      }
+    },
+    {
+      "name": "肝功能异常",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "食欲不振",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "肝掌",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "云芝胞内糖肽胶囊",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "CT检查",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "造影检查",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "血清甲胎蛋白(AFP)",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "食积胃病",
+      "category": 1,
+      "symbolSize": 40,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#E8590C"
+      }
+    },
+    {
+      "name": "中医科",
+      "category": 0,
+      "symbolSize": 60,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#4C6EF5"
+      }
+    },
+    {
+      "name": "中医综合",
+      "category": 0,
+      "symbolSize": 60,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#4C6EF5"
+      }
+    },
+    {
+      "name": "心胃的奇怪感觉",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "嗳腐",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "脾胃虚弱",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "胃热疼痛",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "电子胃镜",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "上消化道造影",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "胃超声检查",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "脾虚泄泻",
+      "category": 1,
+      "symbolSize": 40,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#E8590C"
+      }
+    },
+    {
+      "name": "口甜",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "面色灰暗",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "脾虚",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "弱脉",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "双歧杆菌三联活菌散",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "复合乳酸菌胶囊",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "香砂六君丸",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "肠镜",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "下消化道摄影检查",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "痰浊眩晕",
+      "category": 1,
+      "symbolSize": 40,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#E8590C"
+      }
+    },
+    {
+      "name": "濡脉",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "脘痞",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "疲乏",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "食欲减退",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "胸闷",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "脉搏",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "电测听",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "眼眶击出性骨折",
+      "category": 1,
+      "symbolSize": 40,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#E8590C"
+      }
+    },
+    {
+      "name": "眼科",
+      "category": 0,
+      "symbolSize": 60,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#4C6EF5"
+      }
+    },
+    {
+      "name": "视神经萎缩",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "瘫痪",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "眼球不能随意动",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "眼睑浮肿",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "伤科跌打丸",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "接骨七厘片",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "灵仙跌打片",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "眼科检查",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "眼球和眼眶的超声检查",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "颌面五官CT检查",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "螺丝菜",
+      "category": 6,
+      "symbolSize": 15,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#E03131"
+      }
+    },
+    {
+      "name": "眼眶骨折",
+      "category": 1,
+      "symbolSize": 40,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#E8590C"
+      }
+    },
+    {
+      "name": "眉下垂或位置低",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "眼部胀痛",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "眼球压痛",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "眼球内陷",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "儿童五官科检查",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "眼及眶区CT检查",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "动眼神经检查",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "面肥",
+      "category": 6,
+      "symbolSize": 15,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#E03131"
+      }
+    },
+    {
+      "name": "急性出血性结膜炎",
+      "category": 1,
+      "symbolSize": 40,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#E8590C"
+      }
+    },
+    {
+      "name": "神经根刺激",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "目垢增多",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "流泪",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "鼻塞",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "结膜充血",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "清火栀麦片",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "角膜荧光素染色",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "结膜的检查",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "鸡蛋黄",
+      "category": 5,
+      "symbolSize": 15,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#F08C00"
+      }
+    },
+    {
+      "name": "黄酒",
+      "category": 6,
+      "symbolSize": 15,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#E03131"
+      }
+    },
+    {
+      "name": "阴道异物",
+      "category": 1,
+      "symbolSize": 40,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#E8590C"
+      }
+    },
+    {
+      "name": "妇产科",
+      "category": 0,
+      "symbolSize": 60,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#4C6EF5"
+      }
+    },
+    {
+      "name": "妇科",
+      "category": 0,
+      "symbolSize": 60,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#4C6EF5"
+      }
+    },
+    {
+      "name": "性交疼痛",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "阴道分泌物增多",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "阴道后穹窿触痛",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "尿瘘",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "剧烈疼痛",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "复方黄藤洗液",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "硝酸咪康唑乳膏",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "甲硝唑阴道泡腾片",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "阴道分泌物检查",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "阴道窥器检查",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "三合诊",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "产后风",
+      "category": 1,
+      "symbolSize": 40,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#E8590C"
+      }
+    },
+    {
+      "name": "产科",
+      "category": 0,
+      "symbolSize": 60,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#4C6EF5"
+      }
+    },
+    {
+      "name": "心慌",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "产后小腹坠痛",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "产后腰痛",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "腰腿痛丸",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "子宫与附件肿块",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "鳕鱼",
+      "category": 6,
+      "symbolSize": 15,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#E03131"
+      }
+    },
+    {
+      "name": "绝经期尿路感染",
+      "category": 1,
+      "symbolSize": 40,
+      "label": {
+        "show": true,
+        "fontSize": 10
+      },
+      "itemStyle": {
+        "color": "#E8590C"
+      }
+    },
+    {
+      "name": "绝经",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "膀胱痉挛",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "脓尿",
+      "category": 2,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "盐酸头孢他美酯干混悬剂",
+      "category": 3,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "血管造影",
+      "category": 4,
+      "symbolSize": 20,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "鸡肝",
+      "category": 6,
+      "symbolSize": 15,
+      "label": {
+        "show": true,
+        "fontSize": 8
+      },
+      "itemStyle": {
+        "color": "#E03131"
+      }
+    }
+  ],
+  "links": [
+    {
+      "source": "内科",
+      "target": "冠心病",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "心内科",
+      "target": "冠心病",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "冠心病",
+      "target": "心血管堵塞",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "冠心病",
+      "target": "心力衰竭",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "冠心病",
+      "target": "呼吸困难",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "冠心病",
+      "target": "心跳过速",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "冠心病",
+      "target": "乏力",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "冠心病",
+      "target": "同溢堂",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "冠心病",
+      "target": "益安宁丸",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "冠心病",
+      "target": "丹参益心胶囊",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "冠心病",
+      "target": "运动显像",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "冠心病",
+      "target": "心电图",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "冠心病",
+      "target": "动态心电图（Holter监测）",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "冠心病",
+      "target": "鸡蛋清",
+      "value": "宜食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "冠心病",
+      "target": "南瓜子仁",
+      "value": "宜食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "冠心病",
+      "target": "白酒",
+      "value": "忌食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "冠心病",
+      "target": "杏仁",
+      "value": "忌食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "内科",
+      "target": "功能性消化不良",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "消化内科",
+      "target": "功能性消化不良",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "功能性消化不良",
+      "target": "驻站医",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "功能性消化不良",
+      "target": "腹部不适",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "功能性消化不良",
+      "target": "植物血凝素的淋...",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "功能性消化不良",
+      "target": "放屁过臭",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "功能性消化不良",
+      "target": "腹泻",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "功能性消化不良",
+      "target": "维生素B1丸",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "功能性消化不良",
+      "target": "乳酸菌素片",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "功能性消化不良",
+      "target": "沙棘颗粒",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "功能性消化不良",
+      "target": "尿常规",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "功能性消化不良",
+      "target": "粪便淀粉颗粒",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "功能性消化不良",
+      "target": "胃肠道功能动力学检查",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "功能性消化不良",
+      "target": "鹿肉",
+      "value": "宜食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "功能性消化不良",
+      "target": "鸡心",
+      "value": "宜食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "功能性消化不良",
+      "target": "鹌鹑蛋",
+      "value": "忌食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "功能性消化不良",
+      "target": "鸡腿",
+      "value": "忌食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "内科",
+      "target": "胃炎",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "消化内科",
+      "target": "胃炎",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "胃炎",
+      "target": "发热伴有腹痛、...",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "胃炎",
+      "target": "上腹不适",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "胃炎",
+      "target": "恶心与呕吐",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "胃炎",
+      "target": "反酸",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "胃炎",
+      "target": "胃肠道胀气",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "胃炎",
+      "target": "复方田七胃痛胶囊",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "胃炎",
+      "target": "左金丸",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "胃炎",
+      "target": "奥美拉唑镁肠溶片",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "胃炎",
+      "target": "胃镜",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "胃炎",
+      "target": "抗胃壁细胞抗体",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "胃炎",
+      "target": "纤维胃镜检查",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "胃炎",
+      "target": "鸭肝",
+      "value": "宜食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "胃炎",
+      "target": "鸡心",
+      "value": "宜食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "胃炎",
+      "target": "鸭血(白鸭)",
+      "value": "忌食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "胃炎",
+      "target": "杏仁",
+      "value": "忌食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "外科",
+      "target": "老年人骨质疏松",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "骨外科",
+      "target": "老年人骨质疏松",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "老年人骨质疏松",
+      "target": "疲劳",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "老年人骨质疏松",
+      "target": "背痛",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "老年人骨质疏松",
+      "target": "胸腰椎压缩性骨折",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "老年人骨质疏松",
+      "target": "驼背",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "老年人骨质疏松",
+      "target": "骨质疏松",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "老年人骨质疏松",
+      "target": "全鹿丸",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "老年人骨质疏松",
+      "target": "补肾健骨胶囊",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "老年人骨质疏松",
+      "target": "强骨生血口服液",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "老年人骨质疏松",
+      "target": "骨密度测定",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "老年人骨质疏松",
+      "target": "视力",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "老年人骨质疏松",
+      "target": "血清钙",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "老年人骨质疏松",
+      "target": "鸡蛋",
+      "value": "宜食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "老年人骨质疏松",
+      "target": "鸡内金",
+      "value": "宜食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "老年人骨质疏松",
+      "target": "鸭血(白鸭)",
+      "value": "忌食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "老年人骨质疏松",
+      "target": "田螺",
+      "value": "忌食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "外科",
+      "target": "前列腺炎",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "泌尿外科",
+      "target": "前列腺炎",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "前列腺炎",
+      "target": "男性小腹坠痛",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "前列腺炎",
+      "target": "排尿障碍",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "前列腺炎",
+      "target": "排尿疼痛",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "前列腺炎",
+      "target": "尿滴白",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "前列腺炎",
+      "target": "尿频",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "前列腺炎",
+      "target": "前列舒乐颗粒",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "前列腺炎",
+      "target": "乳酸左氧氟沙星片",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "前列腺炎",
+      "target": "盐酸克林霉素棕榈酸酯分散片",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "前列腺炎",
+      "target": "前列腺液卵磷脂小体",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "前列腺炎",
+      "target": "精液柠檬酸",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "前列腺炎",
+      "target": "精液气味",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "前列腺炎",
+      "target": "芝麻",
+      "value": "宜食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "前列腺炎",
+      "target": "南瓜子仁",
+      "value": "宜食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "前列腺炎",
+      "target": "杏仁",
+      "value": "忌食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "前列腺炎",
+      "target": "腐竹",
+      "value": "忌食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "外科",
+      "target": "前列腺增生",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "泌尿外科",
+      "target": "前列腺增生",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "前列腺增生",
+      "target": "尿频",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "前列腺增生",
+      "target": "血尿",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "前列腺增生",
+      "target": "排尿困难及尿潴留",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "前列腺增生",
+      "target": "膀胱排空不全",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "前列腺增生",
+      "target": "乏力",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "前列腺增生",
+      "target": "非那雄胺片",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "前列腺增生",
+      "target": "前列癃闭通片",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "前列腺增生",
+      "target": "前列舒乐片",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "前列腺增生",
+      "target": "男性生殖系X线检查",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "前列腺增生",
+      "target": "膀胱镜",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "前列腺增生",
+      "target": "膀胱残余尿量测定",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "前列腺增生",
+      "target": "鸭肝",
+      "value": "宜食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "前列腺增生",
+      "target": "芝麻",
+      "value": "宜食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "前列腺增生",
+      "target": "杏仁",
+      "value": "忌食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "前列腺增生",
+      "target": "腐竹",
+      "value": "忌食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "五官科",
+      "target": "鼻炎",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "耳鼻喉科",
+      "target": "鼻炎",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "鼻炎",
+      "target": "鼻粘膜苍白水肿",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "鼻炎",
+      "target": "上额窦囊肿",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "鼻炎",
+      "target": "鼻粘膜干燥发痒",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "鼻炎",
+      "target": "鼻塞排出脓性或...",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "鼻炎",
+      "target": "深侧鼻塞",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "鼻炎",
+      "target": "孟鲁司特钠片",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "鼻炎",
+      "target": "富马酸酮替芬胶囊",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "鼻炎",
+      "target": "苍夷滴鼻剂",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "鼻炎",
+      "target": "耳鼻咽喉CT检查",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "鼻炎",
+      "target": "鼻腔检查",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "鼻炎",
+      "target": "鼻嗅觉功能检查",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "鼻炎",
+      "target": "鹿肉",
+      "value": "宜食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "鼻炎",
+      "target": "鸭蛋",
+      "value": "宜食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "鼻炎",
+      "target": "花生",
+      "value": "忌食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "鼻炎",
+      "target": "白扁豆",
+      "value": "忌食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "五官科",
+      "target": "扁桃体炎",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "耳鼻喉科",
+      "target": "扁桃体炎",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "扁桃体炎",
+      "target": "喉结痛",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "扁桃体炎",
+      "target": "扁桃体充血",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "扁桃体炎",
+      "target": "扁桃体充血肥大",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "扁桃体炎",
+      "target": "咽痛",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "扁桃体炎",
+      "target": "扁桃体上有白点",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "扁桃体炎",
+      "target": "炎立消胶囊",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "扁桃体炎",
+      "target": "一清颗粒",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "扁桃体炎",
+      "target": "牛黄解毒丸",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "扁桃体炎",
+      "target": "耳鼻咽喉CT检查",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "扁桃体炎",
+      "target": "耳、鼻、咽拭子细菌培养",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "扁桃体炎",
+      "target": "血小板计数（PLT）",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "扁桃体炎",
+      "target": "蜂蜜",
+      "value": "宜食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "扁桃体炎",
+      "target": "冰糖",
+      "value": "宜食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "扁桃体炎",
+      "target": "杏仁",
+      "value": "忌食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "扁桃体炎",
+      "target": "沙丁鱼",
+      "value": "忌食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "五官科",
+      "target": "位置性眩晕",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "耳鼻喉科",
+      "target": "位置性眩晕",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "位置性眩晕",
+      "target": "驻站医",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "位置性眩晕",
+      "target": "眩晕",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "位置性眩晕",
+      "target": "晕机",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "位置性眩晕",
+      "target": "出冷汗",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "位置性眩晕",
+      "target": "旋转性眩晕",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "位置性眩晕",
+      "target": "养血安神片",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "位置性眩晕",
+      "target": "牛黄解毒丸",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "位置性眩晕",
+      "target": "清凉油",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "位置性眩晕",
+      "target": "颅脑CT检查",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "位置性眩晕",
+      "target": "颈动脉彩超",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "位置性眩晕",
+      "target": "前庭功能检查",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "位置性眩晕",
+      "target": "鸭蛋",
+      "value": "宜食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "位置性眩晕",
+      "target": "鸡蛋",
+      "value": "宜食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "位置性眩晕",
+      "target": "腐竹",
+      "value": "忌食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "位置性眩晕",
+      "target": "白扁豆",
+      "value": "忌食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "儿科",
+      "target": "小儿右肺中叶综合征",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "小儿内科",
+      "target": "小儿右肺中叶综合征",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "小儿右肺中叶综合征",
+      "target": "淋巴结肿大",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "小儿右肺中叶综合征",
+      "target": "疲劳",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "小儿右肺中叶综合征",
+      "target": "慢性咳嗽",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "小儿右肺中叶综合征",
+      "target": "体重减轻",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "小儿右肺中叶综合征",
+      "target": "咯血",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "小儿右肺中叶综合征",
+      "target": "乙酰螺旋霉素片",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "小儿右肺中叶综合征",
+      "target": "乳酸左氧氟沙星片",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "小儿右肺中叶综合征",
+      "target": "头孢拉定分散片",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "小儿右肺中叶综合征",
+      "target": "胸部平片",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "小儿右肺中叶综合征",
+      "target": "胸部CT检查",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "小儿右肺中叶综合征",
+      "target": "支气管镜检查",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "儿科",
+      "target": "小儿高血压",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "小儿内科",
+      "target": "小儿高血压",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "小儿高血压",
+      "target": "抽风",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "小儿高血压",
+      "target": "食欲下降",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "小儿高血压",
+      "target": "共济失调",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "小儿高血压",
+      "target": "视力障碍",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "小儿高血压",
+      "target": "瘀斑",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "小儿高血压",
+      "target": "替米沙坦片",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "小儿高血压",
+      "target": "羟苯磺酸钙胶囊",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "小儿高血压",
+      "target": "马来酸依那普利片",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "小儿高血压",
+      "target": "血管杂音",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "小儿高血压",
+      "target": "血常规",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "小儿高血压",
+      "target": "心电图",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "小儿高血压",
+      "target": "鹿肉",
+      "value": "宜食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "小儿高血压",
+      "target": "南瓜子仁",
+      "value": "宜食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "小儿高血压",
+      "target": "啤酒",
+      "value": "忌食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "小儿高血压",
+      "target": "白酒",
+      "value": "忌食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "儿科",
+      "target": "婴幼儿腹泻",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "小儿内科",
+      "target": "婴幼儿腹泻",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "婴幼儿腹泻",
+      "target": "驻站医",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "婴幼儿腹泻",
+      "target": "肠鸣",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "婴幼儿腹泻",
+      "target": "拒食",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "婴幼儿腹泻",
+      "target": "腹泻",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "婴幼儿腹泻",
+      "target": "爆发性水泻",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "婴幼儿腹泻",
+      "target": "乳酸菌素片",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "婴幼儿腹泻",
+      "target": "抱龙丸",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "婴幼儿腹泻",
+      "target": "小儿暖脐膏",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "婴幼儿腹泻",
+      "target": "便常规",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "婴幼儿腹泻",
+      "target": "粪便钾（Potassium.K）",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "婴幼儿腹泻",
+      "target": "血常规",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "婴幼儿腹泻",
+      "target": "桃仁",
+      "value": "宜食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "婴幼儿腹泻",
+      "target": "葵花子仁",
+      "value": "宜食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "婴幼儿腹泻",
+      "target": "啤酒",
+      "value": "忌食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "婴幼儿腹泻",
+      "target": "白酒",
+      "value": "忌食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "皮肤性病科",
+      "target": "副银屑病",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "皮肤科",
+      "target": "副银屑病",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "副银屑病",
+      "target": "斑疹",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "副银屑病",
+      "target": "疱疹",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "副银屑病",
+      "target": "淋巴结肿大",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "副银屑病",
+      "target": "鳞屑",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "副银屑病",
+      "target": "点状出血",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "副银屑病",
+      "target": "银屑灵",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "副银屑病",
+      "target": "环孢素软胶囊",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "副银屑病",
+      "target": "他卡西醇软膏",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "副银屑病",
+      "target": "涂片",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "副银屑病",
+      "target": "免疫病理检查",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "副银屑病",
+      "target": "细胞组织化学染色",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "皮肤性病科",
+      "target": "耳湿疹",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "皮肤科",
+      "target": "耳湿疹",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "耳湿疹",
+      "target": "耳垂长痘",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "耳湿疹",
+      "target": "驻站医",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "耳湿疹",
+      "target": "耳后红斑",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "耳湿疹",
+      "target": "慢性湿疹样变",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "耳湿疹",
+      "target": "耳朵长痘",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "耳湿疹",
+      "target": "糠酸莫米松凝胶",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "耳湿疹",
+      "target": "氟芬那酸丁酯软膏",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "耳湿疹",
+      "target": "无极膏",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "耳湿疹",
+      "target": "皮肤颜色",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "耳湿疹",
+      "target": "耳鼻咽喉CT检查",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "耳湿疹",
+      "target": "涂片",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "耳湿疹",
+      "target": "薇菜",
+      "value": "宜食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "耳湿疹",
+      "target": "芝麻",
+      "value": "宜食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "耳湿疹",
+      "target": "苏打粉",
+      "value": "忌食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "耳湿疹",
+      "target": "咸鸭蛋",
+      "value": "忌食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "皮肤性病科",
+      "target": "核黄素缺乏病",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "皮肤科",
+      "target": "核黄素缺乏病",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "核黄素缺乏病",
+      "target": "口唇干燥",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "核黄素缺乏病",
+      "target": "丘疹",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "核黄素缺乏病",
+      "target": "驻站医",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "核黄素缺乏病",
+      "target": "口腔粘膜色素沉着",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "核黄素缺乏病",
+      "target": "舌炎",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "核黄素缺乏病",
+      "target": "鱼肝油乳",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "核黄素缺乏病",
+      "target": "维生素B1丸",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "核黄素缺乏病",
+      "target": "多维铁口服溶液",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "核黄素缺乏病",
+      "target": "维生素B2",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "核黄素缺乏病",
+      "target": "皮损",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "核黄素缺乏病",
+      "target": "维生素B2（VitB2,VB2）",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "核黄素缺乏病",
+      "target": "鹿肉",
+      "value": "宜食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "核黄素缺乏病",
+      "target": "鸭肉",
+      "value": "宜食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "核黄素缺乏病",
+      "target": "啤酒",
+      "value": "忌食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "核黄素缺乏病",
+      "target": "公鸡",
+      "value": "忌食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "外科",
+      "target": "颈椎病",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "骨外科",
+      "target": "颈椎病",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "颈椎病",
+      "target": "脖子扭痛",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "颈椎病",
+      "target": "右腿麻木",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "颈椎病",
+      "target": "颈心综合症",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "颈椎病",
+      "target": "手臂发麻",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "颈椎病",
+      "target": "肩背部沉重感",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "颈椎病",
+      "target": "抗骨质增生丸",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "颈椎病",
+      "target": "抗骨增生片",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "颈椎病",
+      "target": "抑眩宁胶囊",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "颈椎病",
+      "target": "颈部MRI检查",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "颈椎病",
+      "target": "颈椎CT检查",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "颈椎病",
+      "target": "肌电图",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "颈椎病",
+      "target": "鸭肉",
+      "value": "宜食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "颈椎病",
+      "target": "芝麻",
+      "value": "宜食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "颈椎病",
+      "target": "鹿肉",
+      "value": "忌食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "颈椎病",
+      "target": "杏仁",
+      "value": "忌食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "外科",
+      "target": "畸形性骨炎",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "骨外科",
+      "target": "畸形性骨炎",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "畸形性骨炎",
+      "target": "脑积水",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "畸形性骨炎",
+      "target": "耳聋",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "畸形性骨炎",
+      "target": "心力衰竭",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "畸形性骨炎",
+      "target": "出生时小头",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "畸形性骨炎",
+      "target": "嗜睡",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "畸形性骨炎",
+      "target": "消炎镇痛膏",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "畸形性骨炎",
+      "target": "小活络丸",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "畸形性骨炎",
+      "target": "甲芬那酸片",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "畸形性骨炎",
+      "target": "骨与关节MRI检查",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "畸形性骨炎",
+      "target": "骨关节及软组织CT检查",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "畸形性骨炎",
+      "target": "手畸形检查",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "畸形性骨炎",
+      "target": "鸡蛋",
+      "value": "宜食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "畸形性骨炎",
+      "target": "鸡蛋",
+      "value": "宜食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "畸形性骨炎",
+      "target": "啤酒",
+      "value": "忌食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "畸形性骨炎",
+      "target": "白酒",
+      "value": "忌食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "肿瘤科",
+      "target": "胃癌",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "肿瘤内科",
+      "target": "胃癌",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "胃癌",
+      "target": "急腹症",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "胃癌",
+      "target": "手掌呈黑色",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "胃癌",
+      "target": "胃痛",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "胃癌",
+      "target": "胃壁增厚",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "胃癌",
+      "target": "便秘",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "胃癌",
+      "target": "消癌平片",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "胃癌",
+      "target": "参莲胶囊",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "胃癌",
+      "target": "鸦胆子油乳注射液",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "胃癌",
+      "target": "胃液潜血试验",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "胃癌",
+      "target": "血清唾液酸测定",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "胃癌",
+      "target": "胃镜",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "胃癌",
+      "target": "蜂蜜",
+      "value": "宜食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "胃癌",
+      "target": "鸽蛋",
+      "value": "宜食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "胃癌",
+      "target": "鸭肉",
+      "value": "忌食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "胃癌",
+      "target": "小龙虾",
+      "value": "忌食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "肿瘤科",
+      "target": "原发性肝癌",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "肿瘤外科",
+      "target": "原发性肝癌",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "原发性肝癌",
+      "target": "钝痛",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "原发性肝癌",
+      "target": "腹部肿块",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "原发性肝癌",
+      "target": "肝功能受损",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "原发性肝癌",
+      "target": "腹泻",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "原发性肝癌",
+      "target": "腹水",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "原发性肝癌",
+      "target": "复方氟尿嘧啶口服溶液",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "原发性肝癌",
+      "target": "养正消积胶囊",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "原发性肝癌",
+      "target": "楼莲胶囊",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "原发性肝癌",
+      "target": "血清γ-谷氨酰转肽酶同工酶",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "原发性肝癌",
+      "target": "血清碱性磷酸酶同工酶",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "原发性肝癌",
+      "target": "胎甲球（a-FA/AFP)",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "原发性肝癌",
+      "target": "鸡蛋",
+      "value": "宜食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "原发性肝癌",
+      "target": "葵花子仁",
+      "value": "宜食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "原发性肝癌",
+      "target": "干腌菜",
+      "value": "忌食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "原发性肝癌",
+      "target": "啤酒",
+      "value": "忌食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "肿瘤科",
+      "target": "老年人原发性肝癌",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "肿瘤外科",
+      "target": "老年人原发性肝癌",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "老年人原发性肝癌",
+      "target": "肝功能异常",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "老年人原发性肝癌",
+      "target": "淋巴结肿大",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "老年人原发性肝癌",
+      "target": "体重减轻",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "老年人原发性肝癌",
+      "target": "食欲不振",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "老年人原发性肝癌",
+      "target": "肝掌",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "老年人原发性肝癌",
+      "target": "养正消积胶囊",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "老年人原发性肝癌",
+      "target": "消癌平片",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "老年人原发性肝癌",
+      "target": "云芝胞内糖肽胶囊",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "老年人原发性肝癌",
+      "target": "CT检查",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "老年人原发性肝癌",
+      "target": "造影检查",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "老年人原发性肝癌",
+      "target": "血清甲胎蛋白(AFP)",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "中医科",
+      "target": "食积胃病",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "中医综合",
+      "target": "食积胃病",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "食积胃病",
+      "target": "心胃的奇怪感觉",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "食积胃病",
+      "target": "嗳腐",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "食积胃病",
+      "target": "脾胃虚弱",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "食积胃病",
+      "target": "胃热疼痛",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "食积胃病",
+      "target": "便秘",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "食积胃病",
+      "target": "维生素B1丸",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "食积胃病",
+      "target": "乳酸菌素片",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "食积胃病",
+      "target": "沙棘颗粒",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "食积胃病",
+      "target": "电子胃镜",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "食积胃病",
+      "target": "上消化道造影",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "食积胃病",
+      "target": "胃超声检查",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "中医科",
+      "target": "脾虚泄泻",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "中医综合",
+      "target": "脾虚泄泻",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "脾虚泄泻",
+      "target": "口甜",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "脾虚泄泻",
+      "target": "面色灰暗",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "脾虚泄泻",
+      "target": "脾虚",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "脾虚泄泻",
+      "target": "肠鸣",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "脾虚泄泻",
+      "target": "弱脉",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "脾虚泄泻",
+      "target": "双歧杆菌三联活菌散",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "脾虚泄泻",
+      "target": "复合乳酸菌胶囊",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "脾虚泄泻",
+      "target": "香砂六君丸",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "脾虚泄泻",
+      "target": "便常规",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "脾虚泄泻",
+      "target": "肠镜",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "脾虚泄泻",
+      "target": "下消化道摄影检查",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "脾虚泄泻",
+      "target": "鸭蛋",
+      "value": "宜食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "脾虚泄泻",
+      "target": "鸡蛋",
+      "value": "宜食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "脾虚泄泻",
+      "target": "田螺",
+      "value": "忌食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "脾虚泄泻",
+      "target": "沙丁鱼",
+      "value": "忌食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "中医科",
+      "target": "痰浊眩晕",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "中医综合",
+      "target": "痰浊眩晕",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "痰浊眩晕",
+      "target": "濡脉",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "痰浊眩晕",
+      "target": "脘痞",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "痰浊眩晕",
+      "target": "疲乏",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "痰浊眩晕",
+      "target": "食欲减退",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "痰浊眩晕",
+      "target": "胸闷",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "痰浊眩晕",
+      "target": "养血安神片",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "痰浊眩晕",
+      "target": "牛黄解毒丸",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "痰浊眩晕",
+      "target": "清凉油",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "痰浊眩晕",
+      "target": "脉搏",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "痰浊眩晕",
+      "target": "心电图",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "痰浊眩晕",
+      "target": "电测听",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "五官科",
+      "target": "眼眶击出性骨折",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "眼科",
+      "target": "眼眶击出性骨折",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "眼眶击出性骨折",
+      "target": "视神经萎缩",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "眼眶击出性骨折",
+      "target": "瘫痪",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "眼眶击出性骨折",
+      "target": "视力障碍",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "眼眶击出性骨折",
+      "target": "眼球不能随意动",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "眼眶击出性骨折",
+      "target": "眼睑浮肿",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "眼眶击出性骨折",
+      "target": "伤科跌打丸",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "眼眶击出性骨折",
+      "target": "接骨七厘片",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "眼眶击出性骨折",
+      "target": "灵仙跌打片",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "眼眶击出性骨折",
+      "target": "眼科检查",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "眼眶击出性骨折",
+      "target": "眼球和眼眶的超声检查",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "眼眶击出性骨折",
+      "target": "颌面五官CT检查",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "眼眶击出性骨折",
+      "target": "南瓜子仁",
+      "value": "宜食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "眼眶击出性骨折",
+      "target": "葵花子仁",
+      "value": "宜食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "眼眶击出性骨折",
+      "target": "螺丝菜",
+      "value": "忌食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "眼眶击出性骨折",
+      "target": "干腌菜",
+      "value": "忌食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "五官科",
+      "target": "眼眶骨折",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "眼科",
+      "target": "眼眶骨折",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "眼眶骨折",
+      "target": "眉下垂或位置低",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "眼眶骨折",
+      "target": "眼部胀痛",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "眼眶骨折",
+      "target": "眼球压痛",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "眼眶骨折",
+      "target": "视力障碍",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "眼眶骨折",
+      "target": "眼球内陷",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "眼眶骨折",
+      "target": "伤科跌打丸",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "眼眶骨折",
+      "target": "接骨七厘片",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "眼眶骨折",
+      "target": "灵仙跌打片",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "眼眶骨折",
+      "target": "儿童五官科检查",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "眼眶骨折",
+      "target": "眼及眶区CT检查",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "眼眶骨折",
+      "target": "动眼神经检查",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "眼眶骨折",
+      "target": "鸡蛋",
+      "value": "宜食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "眼眶骨折",
+      "target": "鸽蛋",
+      "value": "宜食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "眼眶骨折",
+      "target": "面肥",
+      "value": "忌食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "眼眶骨折",
+      "target": "啤酒",
+      "value": "忌食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "五官科",
+      "target": "急性出血性结膜炎",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "眼科",
+      "target": "急性出血性结膜炎",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "急性出血性结膜炎",
+      "target": "神经根刺激",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "急性出血性结膜炎",
+      "target": "目垢增多",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "急性出血性结膜炎",
+      "target": "流泪",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "急性出血性结膜炎",
+      "target": "鼻塞",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "急性出血性结膜炎",
+      "target": "结膜充血",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "急性出血性结膜炎",
+      "target": "一清颗粒",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "急性出血性结膜炎",
+      "target": "牛黄解毒丸",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "急性出血性结膜炎",
+      "target": "清火栀麦片",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "急性出血性结膜炎",
+      "target": "角膜荧光素染色",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "急性出血性结膜炎",
+      "target": "视力",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "急性出血性结膜炎",
+      "target": "结膜的检查",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "急性出血性结膜炎",
+      "target": "鸡蛋黄",
+      "value": "宜食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "急性出血性结膜炎",
+      "target": "杏仁",
+      "value": "宜食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "急性出血性结膜炎",
+      "target": "啤酒",
+      "value": "忌食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "急性出血性结膜炎",
+      "target": "黄酒",
+      "value": "忌食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "妇产科",
+      "target": "阴道异物",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "妇科",
+      "target": "阴道异物",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "阴道异物",
+      "target": "性交疼痛",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "阴道异物",
+      "target": "阴道分泌物增多",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "阴道异物",
+      "target": "阴道后穹窿触痛",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "阴道异物",
+      "target": "尿瘘",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "阴道异物",
+      "target": "剧烈疼痛",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "阴道异物",
+      "target": "复方黄藤洗液",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "阴道异物",
+      "target": "硝酸咪康唑乳膏",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "阴道异物",
+      "target": "甲硝唑阴道泡腾片",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "阴道异物",
+      "target": "阴道分泌物检查",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "阴道异物",
+      "target": "阴道窥器检查",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "阴道异物",
+      "target": "三合诊",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "妇产科",
+      "target": "产后风",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "产科",
+      "target": "产后风",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "产后风",
+      "target": "面色灰暗",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "产后风",
+      "target": "驻站医",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "产后风",
+      "target": "心慌",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "产后风",
+      "target": "产后小腹坠痛",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "产后风",
+      "target": "产后腰痛",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "产后风",
+      "target": "腰腿痛丸",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "产后风",
+      "target": "消炎镇痛膏",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "产后风",
+      "target": "小活络丸",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "产后风",
+      "target": "子宫与附件肿块",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "产后风",
+      "target": "阴道分泌物检查",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "产后风",
+      "target": "便常规",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "产后风",
+      "target": "鸭蛋",
+      "value": "宜食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "产后风",
+      "target": "鸡蛋",
+      "value": "宜食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "产后风",
+      "target": "咸鸭蛋",
+      "value": "忌食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "产后风",
+      "target": "鳕鱼",
+      "value": "忌食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "妇产科",
+      "target": "绝经期尿路感染",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "妇科",
+      "target": "绝经期尿路感染",
+      "value": "所属科室",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "绝经期尿路感染",
+      "target": "绝经",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "绝经期尿路感染",
+      "target": "恶心与呕吐",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "绝经期尿路感染",
+      "target": "膀胱痉挛",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "绝经期尿路感染",
+      "target": "尿频",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "绝经期尿路感染",
+      "target": "脓尿",
+      "value": "症状",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "绝经期尿路感染",
+      "target": "乳酸左氧氟沙星片",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "绝经期尿路感染",
+      "target": "盐酸头孢他美酯干混悬剂",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "绝经期尿路感染",
+      "target": "头孢拉定分散片",
+      "value": "推荐药物",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "绝经期尿路感染",
+      "target": "血管造影",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "绝经期尿路感染",
+      "target": "尿常规",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "绝经期尿路感染",
+      "target": "膀胱镜",
+      "value": "检查",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "绝经期尿路感染",
+      "target": "蜂蜜",
+      "value": "宜食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "绝经期尿路感染",
+      "target": "南瓜子仁",
+      "value": "宜食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "绝经期尿路感染",
+      "target": "鹿肉",
+      "value": "忌食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    },
+    {
+      "source": "绝经期尿路感染",
+      "target": "鸡肝",
+      "value": "忌食",
+      "lineStyle": {
+        "curveness": 0.1,
+        "width": 0.8,
+        "opacity": 0.6
+      }
+    }
+  ],
+  "categories": [
+    {
+      "name": "科室",
+      "itemStyle": {
+        "color": "#4C6EF5"
+      }
+    },
+    {
+      "name": "疾病",
+      "itemStyle": {
+        "color": "#E8590C"
+      }
+    },
+    {
+      "name": "症状",
+      "itemStyle": {
+        "color": "#2F9E44"
+      }
+    },
+    {
+      "name": "药物",
+      "itemStyle": {
+        "color": "#9C36B5"
+      }
+    },
+    {
+      "name": "检查",
+      "itemStyle": {
+        "color": "#1098AD"
+      }
+    },
+    {
+      "name": "宜食",
+      "itemStyle": {
+        "color": "#F08C00"
+      }
+    },
+    {
+      "name": "忌食",
+      "itemStyle": {
+        "color": "#E03131"
+      }
+    }
+  ]
+}
